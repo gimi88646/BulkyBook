@@ -1054,3 +1054,8 @@ F:\Workspace\Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAcce
 F:\Workspace\Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.dll
 F:\Workspace\Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.DataAccess.pdb
 F:\Workspace\Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\BulkyBook.Models.pdb
+F:\Workspace\Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Workspace\Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Workspace\Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Workspace\Projects\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Workspace\Projects\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
