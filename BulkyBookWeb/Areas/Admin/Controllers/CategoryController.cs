@@ -54,7 +54,7 @@ namespace BulkyBookWeb.Controllers
             {
                 return NotFound();
             }
-            var category = unitOfWork.Category.GetFirstOrDefault(u=>u.id==id);
+            var category = unitOfWork.Category.GetFirstOrDefault(u=>u.Id==id);
 
             if (category == null)
             {
@@ -89,7 +89,7 @@ namespace BulkyBookWeb.Controllers
             {
                 return NotFound();
             }
-            var category = unitOfWork.Category.GetFirstOrDefault(u=>u.id == id);
+            var category = unitOfWork.Category.GetFirstOrDefault(u=>u.Id == id);
             if (category == null)
             {
                 return NotFound();
